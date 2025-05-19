@@ -1,0 +1,10 @@
+{
+  "name": "storefront",
+  "org": "GnandeepVenigalla",
+  "site": "storefront",
+  "commerce": {
+    "backend": "https://www.aemshop.net/admin",
+    "storeView": "default"
+  },
+  "env": "development"
+}

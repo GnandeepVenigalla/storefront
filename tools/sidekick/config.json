@@ -1,0 +1,10 @@
+{
+  "project": "Boilerplate",
+  "plugins": [
+    {
+      "project": "My Project",
+      "editUrlLabel": "Document Authoring",
+      "editUrlPattern": "https://da.live/edit#/GnandeepVenigalla/storefront{{pathname}}"
+    }
+  ]
+}
